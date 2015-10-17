@@ -14,7 +14,7 @@
             Password:<br>
                 <input type="text", name="password">
         </form> 
-        <button type="button" onclick="location.href='FTCFindAStore.html'">
+        <button type="button" onclick="location.href='FTCPersonHome.html'">
                     
     </body>
 </html>
