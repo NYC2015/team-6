@@ -11,6 +11,6 @@
 	        merchant ID:<br>
 	        <input type="text", name="merchID">
 	    </form> 
-	                
+	    <button type="button">Enter</button>         
 	</body>
 </html>
