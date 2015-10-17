@@ -1,9 +1,17 @@
 #personal {
     display: inline-block;
+    width: 49%;
+    height: 90%;
+    margin-top: auto;
+    margin-bottom: auto;
     background-color: red
 }
 
 #business {
     display: inline-block;
+    width: 49%;
+    height: 90%;
+    margin-top: auto;
+    margin-bottom: auto;
     background-color: blue;
 }
