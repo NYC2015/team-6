@@ -1,0 +1,36 @@
+<html>
+	<head>
+		<title>FeedTheChildrenPersonalReg</title>
+		<link type:"text/css" rel="stylesheet" href="FTCPersonalReg.css"/>
+	</head>
+	<body>
+	    
+	    <h3>Registration</h3>
+	    <p>Please fill all text fields below</p>
+	    <form>
+	        SNAP ID:<br>
+	        <input type="text", name="snapID">
+	        <br>
+	        Phone Number:<br>
+	        <input type="text", name="phoneNumber">
+	        <br> 
+	        Mailing Address:<br>
+	        <input type="text", name="pAddress">
+	        <br>
+	        Email Address:<br>
+	        <input type="text", name="email">
+	        <br>
+	        Prefered Username:<br>
+	        <input type="text", name="userName">
+	        <br>
+	        Password:<br>
+	        <input type="text", name="password">
+	        <br>
+	        Confirm Password:<br>
+	        <input type="text", name="cPassword">
+	        <br>
+	        
+	    </form> 
+	                
+	</body>
+</html>
