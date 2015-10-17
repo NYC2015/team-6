@@ -1,0 +1,28 @@
+<html>
+    <head>
+            <title>FeedTheChildrenPreferences</title>
+            <link type:"text/css" rel="stylesheet" href="FTCPreferences.css"/>
+    </head>
+    <body>
+        
+        <h3>Preferences</h3>
+        <p>Please indicate by number from 1 to 5 (with 1 being most prefered) your preference of food</p>
+        <form>
+            Grains(rice, bread, etc.):<br>
+            <input type="text", name="grains"> <!-- text field takes up to 20 characters -->
+            <br>
+            Fruits/ Vegetables:<br>
+                <input type="text", name="fruitsVeggies">
+            <br>
+            Dairy:<br>
+                <input type="text", name="dairy">
+            <br>
+            Meats:<br>
+                <input type="text", name="meats">
+            <br>
+            Fish:<br>
+                <input type="text", name="fish">
+        </form> 
+                    
+    </body>
+</html>
