@@ -1,24 +1,34 @@
 <html>
     <head>
-		<title>FeedTheChildrenFrontPage</title>
+        <title>FeedTheChildrenFrontPage</title>
+        <center>
+         <img src="http://www.feedthechildren.org/FeedtheChildrenLogo.png"
+             alt="logo"
+             
+             style="width:wrap;height:wrap;">
+             </center>
         <link type:"text/css" rel="stylesheet" href="FTCFrontPage.css"/>
+        
     </head>
     <body>
+        <center>
         <div id="personal">
             <h1>Personal</h1>
             <ul>
-                <li>login</li>
-                <li>Register</li>
+                <li> <a href="FTCPersonalLogin.html"> login </a></li>
+                <li><a href="FTCPersonalReg.html">Register</a></li>
             </ul>
         </div>
         
         <div id="business">
             <h1>Business</h1>
             <ul>
-                <li>login</li>
-                <li>Register</li>
+                <li><a href="FTCBusinessLogin.html"> login </a></li>
+                <li><a href="FTCBusinessReg.html">Register</a></li>
             </ul>
         </div>
-
+        </center>
     </body>
 </html>
+
+
