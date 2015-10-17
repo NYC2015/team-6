@@ -1,0 +1,16 @@
+<html>
+	<head>
+			<title>FeedTheChildrenBusinessLogin</title>
+			<link type:"text/css" rel="stylesheet" href="FTCBusinessLogin.css"/>
+	</head>
+	<body>
+	    
+	    <h3>Login</h3>
+	    <p>Please enter the merchant ID of your business</p>
+	    <form>
+	        merchant ID:<br>
+	        <input type="text", name="merchID">
+	    </form> 
+	                
+	</body>
+</html>
