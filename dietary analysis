@@ -1,0 +1,35 @@
+#PSEUDO CODE FOR DIETARY ANALYSIS
+
+give the user choices (pick all of those that apply)
+
+dietary restrictions (pick one or two of these restrictions)
+
+gluten-free 
+vegan
+vegetarian
+diabetic
+lactose-intolerant
+anemic
+
+food allergies  
+
+peanut 
+soy
+milk
+
+When the appropriate selections have been made
+
+create a definition/function for each dietary need
+
+diabetic - take out all the food that contain more than 200 mg of sugar. 
+vegetarian - take out all food that are meat
+
+if (diabetic and vegetarian)
+{
+	
+	call the diabetic and vegetarian function
+}                                                                                                                                                                                                            
+print out all that foods that have been are still remaining
+
+find out if that remaining foods are served by the nearby places
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   /
