@@ -1,0 +1,20 @@
+<html>
+    <head>
+    		<title>FeedTheChildrenLogin</title>
+    		<link type:"text/css" rel="stylesheet" href="FTCLogin.css"/>
+    </head>
+    <body>
+        
+        <h3>Business Login</h3>
+        <p>Please enter your user name and password below.</p>
+        <form>
+            User Name:<br>
+            <input type="text", name="userName"> <!-- text field takes up to 20 characters -->
+            <br>
+            Password:<br>
+                <input type="text", name="password">
+        </form> 
+        <button type="button">Enter</button>
+                    
+    </body>
+</html>
