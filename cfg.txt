@@ -1,1 +1,43 @@
-test
+currently available tables
+
+select * from feedthechildren 
+
+select * from feedthemerchant
+
+select * from hpfood
+
+select * from merchfood
+
+
+
+SELECT TOP 1000 [id]
+      ,[username]
+      ,[pwd]
+      ,[email]
+      ,[addr]
+      ,[phnumber]
+      ,[snapid]
+  FROM [CFGTest].[dbo].[FeedTheChildren]
+  
+  
+  SELECT TOP 1000 [id]
+      ,[username]
+      ,[pwd]
+      ,[email]
+      ,[addr]
+      ,[phnumber]
+      ,[merchid]
+      ,[storename]
+  FROM [CFGTest].[dbo].[feedthemerchant]
+  
+  SELECT TOP 1000 [id]
+      ,[type]
+      ,[foodname]
+      ,[quantity]
+  FROM [CFGTest].[dbo].[hpfood]
+  
+  SELECT TOP 1000 [id]
+      ,[type]
+      ,[foodname]
+      ,[quantity]
+  FROM [CFGTest].[dbo].[merchfood]
