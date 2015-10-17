@@ -1,0 +1,11 @@
+#googleMap {
+	margin-left: auto;
+	display: inline-block;
+}
+
+#storeLocation {
+	display: inline-block;
+	float: left; /*places code on the same height level as the map*/
+	width: 39%;
+	height: 100%;
+}
