@@ -1,24 +1,24 @@
 <html>
     <head>
 		<title>FeedTheChildrenFrontPage</title>
-		<link type:"text/css" rel="stylesheet" href="FTCFrontPage.css"/>
-	</head>
-	<body>
+        <link type:"text/css" rel="stylesheet" href="FTCFrontPage.css"/>
+    </head>
+    <body>
         <div id="personal">
             <h1>Personal</h1>
             <ul>
-               <li> <a href="FTCPersonalLogin.html"> login </a></li>
-                <li><a href="FTCPersonalReg.html">Register</a></li>
+                <li>login</li>
+                <li>Register</li>
             </ul>
         </div>
         
         <div id="business">
             <h1>Business</h1>
             <ul>
-                <li><a href="FTCBusinessLogin.html"> login </a></li>
-                <li><a href="FTCBusinessReg.html">Register</a></li>
+                <li>login</li>
+                <li>Register</li>
             </ul>
         </div>
 
-	</body>
+    </body>
 </html>
