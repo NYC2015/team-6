@@ -1,0 +1,9 @@
+ <string name="prompt_email">Email</string>
+    <string name="prompt_snap"> SNAP ID</string>
+    <string name="prompt_merch"> Merchent ID</string>
+    <string name="prompt_vendorname"> Vendor Name</string>
+    <string name="prompt_user">User Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_addr">Address</string>
+    <string name="prompt_pn">Phone Number</string>
+    <string name="action_sign_in">Register</string>
