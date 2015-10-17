@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title>FeedTheChildrenPersonalHome</title>
+		<link type:"text/css" rel="stylesheet" href="FTCPersonalHome.css"/>
+	</head>
+	<body>
+		<div id="headLine">
+			<h1><center>Welcome</center></h1>
+		</div>
+
+		<div id="body">
+
+			<ul>
+				<li>Find a Store</li>
+				<li>Order History</li>
+				<li>Preferences</li>
+				<li>About</li>
+			</ul>
+		</div>
+
+	</body>
+</html>
