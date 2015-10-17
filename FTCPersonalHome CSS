@@ -1,0 +1,11 @@
+#headLine {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #00CC00;
+}
+#headLine h1 {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
