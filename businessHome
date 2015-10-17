@@ -1,0 +1,14 @@
+<html>
+	
+			<h1>Business Home</h1>
+	
+	
+	
+		<h2> <a href="businessInventory.html"> Inventory</a> </h2>
+	
+        <h2> <a href="businessHistory.php"> History</a> </h2>
+        
+		<h2> <a href="codeVerification.html"> Code Verification</a> </h2>
+		
+	
+</html>
