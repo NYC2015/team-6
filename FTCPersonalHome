@@ -11,7 +11,7 @@
 		<div id="body">
 
 			<ul>
-				<li>Find a Store</li>
+				<li><a href="FTCFindAStore.html">Find a Store</a></li>
 				<li>Order History</li>
 				<li>Preferences</li>
 				<li>About</li>
