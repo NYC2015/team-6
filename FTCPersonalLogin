@@ -1,11 +1,11 @@
 <html>
     <head>
-    		<title>FeedTheChildrenLogin</title>
-    		<link type:"text/css" rel="stylesheet" href="FTCLogin.css"/>
+    		<title>FeedTheChildrenPersonalLogin</title>
+    		<link type:"text/css" rel="stylesheet" href="FTCPersonalLogin.css"/>
     </head>
     <body>
         
-        <h3>Business Login</h3>
+        <h3>Login</h3>
         <p>Please enter your user name and password below.</p>
         <form>
             User Name:<br>
