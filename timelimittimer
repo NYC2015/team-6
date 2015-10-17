@@ -1,0 +1,27 @@
+# team-6
+
+# possible timer code for the time limit for java
+
+int timeDiff = newTime - oldTime;
+int bytesCopied = currentCopiedBytes - oldCopiedBytes;
+int bytesRemaining = size - currentCopiedBytes;
+String format = "";
+try
+{
+  int timeRemaining = timeDiff*bytesCopied/bytesRemaining;
+  int sec = (timeRemaining/1000) % 60;
+  int min = (timeRemaining/(1000*60)) % 60;
+  int hours = (timeRemaining/(1000*60*60)) % 24;
+  int days = (timRemaining/(1000*60*60*24)) % 7;
+  int weeks = (timeRemaining/(1000*60*60*24*7)); 
+  if (sec != 0)
+     format = sec + " seconds";
+  if (min != 0)
+     format = min + " minutes " + format; 
+  //ect
+}
+catch(ArithmeticException e)
+{
+  //we did not recieve any bytes durring the last transfer
+  format = "NEVER!"
+}
