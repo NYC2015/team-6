@@ -18,6 +18,7 @@
 	        <input type="text", name="bAddress">
 	        <br>
 	    </form> 
+	    <button type="button">Enter</button>
 	                
 	</body>
 </html>
