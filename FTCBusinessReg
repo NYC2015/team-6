@@ -1,0 +1,23 @@
+<html>
+	<head>
+			<title>FeedTheChildrenBusinessReg</title>
+			<link type:"text/css" rel="stylesheet" href="FTCBusinessReg.css"/>
+	</headT>
+	<body>
+	    
+	    <h3>Business Registration</h3>
+	    <p>Please fill all text fields below</p>
+	    <form>
+	        Merchant ID:<br>
+	        <input type="text", name="merchID">
+	        <br>
+	        Phone Number:<br>
+	        <input type="text", name="phoneNumber">
+	        <br> 
+	        Business Address:<br>
+	        <input type="text", name="bAddress">
+	        <br>
+	    </form> 
+	                
+	</body>
+</html>
